@@ -1,2 +1,3 @@
+print "input a number"
 scanf a
 print a*a
