@@ -30,3 +30,8 @@ run
 
 请原谅TODO的无耻
 
+## 教程
+
+[docs](https://github.com/ohfxingkongteam/pinelang/docs/SYNTAX.md)
+
+
