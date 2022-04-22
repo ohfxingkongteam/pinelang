@@ -32,6 +32,6 @@ run
 
 ## 教程
 
-[docs](https://github.com/ohfxingkongteam/pinelang/docs/SYNTAX.md)
+[docs](https://github.com/ohfxingkongteam/pinelang/blob/main/docs/SYNTAX.md)
 
 
